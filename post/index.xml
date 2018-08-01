@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on #dev</title>
+    <title>Posts on GameCraft</title>
     <link>https://mikymod.github.io/post/</link>
-    <description>Recent content in Posts on #dev</description>
+    <description>Recent content in Posts on GameCraft</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Jul 2018 17:43:28 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 Aug 2018 14:43:28 +0200</lastBuildDate>
     
 	<atom:link href="https://mikymod.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Day 1</title>
+      <title>First post first!</title>
       <link>https://mikymod.github.io/post/day_1/</link>
-      <pubDate>Wed, 18 Jul 2018 17:43:28 +0200</pubDate>
+      <pubDate>Wed, 01 Aug 2018 14:43:28 +0200</pubDate>
       
       <guid>https://mikymod.github.io/post/day_1/</guid>
-      <description></description>
+      <description>This is my space to share experience, ideas and thoughts about game development and culture, as a programmer and as a guy who really enjoy play, design and study games. Nothing much else to say for now&amp;hellip; next post will be more interesting :D promise!</description>
     </item>
     
   </channel>
